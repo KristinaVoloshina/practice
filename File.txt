@@ -1,0 +1,5 @@
+if(condition) {        если его выполнени правда
+    /// condition → TRUE  
+    } else  {          если условие не выполняется
+        /// condition → FALSE
+    }
